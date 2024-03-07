@@ -32,14 +32,14 @@ Explore the code used to generate visualizations of the Mandelbrot Set. The code
 
 ### Usage
 
-1. Clone this repository or download the `mandelbrot_set_visualization.py` file.
+1. Clone this repository or download the `mandelbrot_set_image.py` file.
 2. Make sure you have Python and the required dependencies installed.
 3. Open a terminal or command prompt.
-4. Navigate to the directory containing `mandelbrot_set_visualization.py`.
+4. Navigate to the directory containing `mandelbrot_set_image.py`.
 5. Run the script using the following command:
 
     ```bash
-    python mandelbrot_set_visualization.py
+    python mandelbrot_set_image.py
     ```
 
 6. The script will generate a plot of the Mandelbrot Set and display it in a new window.
