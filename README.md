@@ -64,13 +64,11 @@ You can save the plot as an image file by uncommenting the following line in the
 ```
 <br/>
 
-## Sample Images
+## Sample Image
 
-Below are some sample images generated using the code in this repository:
+Below is a sample image generated using the code in this repository:
 
-1. ![Image 1](image1.png)
-2. ![Image 2](image2.png)
-3. ![Image 3](image3.png)
+![Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot_Set/assets/157393083/808085c0-77f4-4c06-b505-7c5429f9f36e)
 
 Explore the code, create your own visualizations, and let the beauty of the Mandelbrot Set inspire your artistic endeavors!
 <br/><br/>
